@@ -5,6 +5,7 @@
         ".settings": true,
         ".factorypath": true,
         ".gradle":true,
-        ".theia": true
+        ".theia": true,
+        ".git": true
     }
 }
