@@ -7,5 +7,6 @@
         ".gradle":true,
         ".theia": true,
         ".git": true
-    }
+    },
+    "editor.autoSave": "on"
 }
